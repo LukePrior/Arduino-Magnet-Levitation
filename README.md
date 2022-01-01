@@ -8,7 +8,7 @@ This repository contains the code used with the magnetic levitation prototypes w
 
 # DIYODE Magazine Article
 
-[PLACEHOLDER](https://diyodemag.com)
+[Defying Gravity](https://diyodemag.com/projects/magnetic_electromagnet_suspension_levitation_experiments)
 
 # License
 
